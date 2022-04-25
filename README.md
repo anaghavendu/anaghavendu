@@ -1,5 +1,5 @@
 
-#Hi There, I am <h1>Anagha K</h1>
+Hi There, I am <h1>Anagha K</h1>
 
 <!--
 **anaghavendu/anaghavendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
